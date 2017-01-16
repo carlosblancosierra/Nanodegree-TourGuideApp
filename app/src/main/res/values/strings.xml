@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!--Categories-->
+    <string name="categoryCities">Cities</string>
+    <string name="categoryBeaches">Beaches</string>
+    <string name="categoryOtherNaturalPlaces">Other Natural Places</string>
+    <string name="categoryFood">Traditional Food</string>
+
+    <!--Beaches-->
+    <string name="beachesChoroni">Choroni</string>
+    <string name="beachesChoroniDescription">Choroní is a coastal locality in the far north of the
+        municipality of Girardot, Aragua state, Venezuela. It is located on the outskirts of the coastal mountain range.
+        This mountain range makes up the essence of the Henri Pittier National Park.</string>
+
+    <string name="beachesLosRoques">Los Roques</string>
+    <string name="beachesLosRoques_description">Los Roques National Park is a
+        Venezuelan archipelago around 160 kilometers north of the capital Caracas in the Caribbean Sea.
+        The protected area contains more than 300 islands and cays surrounding a 400-sq.-km lagoon.
+        The archipelago’s coral reef is popular with snorkelers and scuba divers. The park is renowned
+        for its isolated, white-sand beaches, windsurfing, fishing and sailing</string>
+
+    <string name="beachesMochima">Mochima</string>
+    <string name="beachesMochimaDescription">Mochima National Park is located in the States of Anzoátegui
+        and Sucre (state), on the northeastern coast of Venezuela. The park covers 94,935 hectares and is
+        made up of an exclusively marine area in its western sector (Anzoátegui State), a coastal marine
+        area that includes the Gulf of Santa Fé and Mochima Bay, and a mountainous area that covers the Turimiquire
+        Dam watershed (Sucre State). Mochima Park was created to protect the montane forests of the Turimiquire
+        Range and the country\'s eastern Caribbean Sea marine landscapes, which are exceptionally beautiful.</string>
+
+    <string name="beachesMorrocoy">Morrocoy</string>
+    <string name="beachesMorrocoyDescription">Morrocoy National Park is located in the easternmost coast of Falcón
+        state and northwestern of Golfo Triste, in the west central Venezuelan coast, near the towns of Boca de Aroa,
+        Tucacas, Sanare, Chichiriviche, Flamenco and Tocuyo de la Costa, and consists of 32,090 acres.
+        he park extends across both terrestrial and aquatic areas of Golfo Triste. It contains an area of
+        mangroves and numerous islets or cays among which are Borracho, Muerto, Sombrero, Sal, Las Animas
+        and Peraza, among others. There are spectaculars white sand beaches on these cays; Mero, Paiclas,
+        los Juanes, Playuela, Tucupido, Azul, Boca Seca and many more. The park\'s internal bays and mangroves,
+        cays and islands sit in the relief of Chichiriviche hills, with elevations of 250 m.</string>
+
+    <string name="beachesPlayaElAgua">Playa el Agua</string>
+    <string name="beachesPlayaElAguaDescription">Playa El Agua is the most famous tourist development on Margarita
+        Island in Venezuela. El Agua is 2.5 miles (4 km) long, 30m wide, gold sand lined with huge palm trees
+        that give shelter to numerous restaurants that provide service to diners on the beach. The boulevard at
+        Playa El Agua stretches for approximately 2 miles (3 km). While there are open stretches, most of the
+        ocean side is lined by restaurants and shops. This beach is favored by both locals and visitors.</string>
+
+    <string name="otherNaturalPlacesColoniaTovar">La Colonia Tovar</string>
+    <string name="otherNaturalPlacesColoniaTovarDescription">Colonia Tovar (English: Tovar Colony) is a town of Venezuela,
+        capital of the municipality Tovar in Aragua state. Founded in 1843 by a group of immigrants from the then
+        independent state of the Grand Duchy of Baden (later incorporated into Germany), is characterized by maintaining
+        the cultural imprint of their origin, so it is called "the Germany of the Caribbean". The economy depends primarily
+        on agriculture and tourism; and the town is located 42 km (26 mi) from Caracas. The Colonia is known for its
+        temperate crops (peaches, strawberries, beets, cauliflower, carrots, cabbage, chard, broccoli, lettuce, onions
+        and potatoes) and their derivatives.</string>
+
+    <string name="otherNaturalPlacesGranSabana">La Gran Sabana</string>
+    <string name="otherNaturalPlacesGranSabanaDescription">La Gran Sabana, English: The Great Savanna,
+        also known as Guianan savanna, is a region in southeastern Venezuela.The savanna spreads into the regions of
+        the Guiana Highlands and south-east into Bolívar State, extending further to the borders with Brazil and Guyana.
+        The Gran Sabana has an area of 10,820 km2 (4,180 sq mi) and is part of the second largest National Park in
+        Venezuela, the Canaima National Park. Only Parima Tapirapecó National Park is larger than Canaima.
+        The average temperature is around 20 °C (68 °F), but at night can drop to 13 °C (55 °F) and in some
+        of the more elevated sites, depending on weather, may fall a bit more. The location offers one of the most
+        unusual landscapes in the world, with rivers, waterfalls and gorges, deep and vast valleys, impenetrable
+        jungles and savannahs that host large numbers and varieties of plant species, a diverse fauna and the isolated
+        table-top mesas locally known as tepuis.</string>
+
+    <string name="otherNaturalPlacesLlanos">Los Llanos Venezolanos</string>
+    <string name="otherNaturalPlacesLlanosDescription">One of the most beautiful regions in Venezuela is \"los llanos\",
+        those huge plains where only the horizon stops your sight. Both, the vegetation and the fauna are full of beauty.
+        Several ecosystems will make a trip to this region an unforgettable one.In this region there are only two very
+        different seasons, where life changes completely: Rainy and dry season. In the first one, the woods, the rivers,
+        the trees show all their beauty. A large part of the region is under the water. In the second one the become
+        yellow and brown, and the dust covers most part of the plains, but that is when all the wildlife converges
+        in the few spots where water is present. It is the season where you can see more birds and animals.
+        The difference between the two seasons is so big, that you can\'t say that you know the \"llanos\" if you don\'t
+        go in both periods.</string>
+
+    <string name="otherNaturalPlacesMedanosDeCoro">Los Medanos de Coro</string>
+    <string name="otherNaturalPlacesMedanosDeCoroDescription">Médanos de Coro National Park
+        (Parque Nacional Los Médanos de Coro) is a Venezuelan national park located in the state of Falcón,
+        near the city of Coro on the road that leads to Paraguaná. The National Park was created in 1974.
+        The park is easily reached by bus or taxi from Coro. The Médanos park lies on the Isthmus of Médanos
+        and covers 91 km2 (35 sq mi) of desert and coastal habitat, including salt marshes. It is made up of
+        three zones: an alluvial plain, formed by the delta of the Mitare River and some smaller streams; an
+        aeolian plain, composed of three types of dunes; and a littoral plain with a belt of mangrove swamps.
+        The massive sand dunes, known as Médanos, spread over an area of approximately 5 by 30 km (3.1 by 18.6 mi).
+        They can reach 40 m (130 ft) in height and are constantly transformed by the unrelenting wind.
+    </string>
+
+    <string name="otherNaturalPlacesPicoBolivar">El Pico Bolivar</string>
+    <string name="otherNaturalPlacesPicoBolivarDescription">Pico Bolívar is the highest mountain in Venezuela,
+        at 4,978 metres (16,332 ft).Located in Mérida State, its top is permanently covered with névé snow
+        and three small glaciers. It can be reached only by walking; the Mérida cable car, the highest cable car
+        in the world, only reaches Pico Espejo. From there it is possible to climb to Pico Bolívar. The peak is
+        named after the Venezuelan independence hero Simon Bolívar. The Pico Bolívar is located on the mountain
+        previously called La Columna, next to El León (4,743 m) and El Toro (4,695 m). The new name was suggested by
+        Tulio Febres Cordero in 1925. It was officially renamed on December 30, 1934.</string>
+
+
+    <string name="citiesCaracas">La Gran Caracas</string>
+    <string name="citiesCaracasDescription">Caracas, Venezuela\'s capital,
+        is a commercial and cultural center located in a northern mountain valley.
+        Independence leader Simón Bolívar is buried at the National Pantheon of Venezuela,
+        established in the 19th century in the city\'s old town. Caracas Cathedral, a landmark of
+        Romanesque architecture, dates to the 17th century. Parque Central\'s 225m-high twin towers
+        are the signature of the skyline.</string>
+
+    <string name="citiesMaracaibo">Maracaibo</string>
+    <string name="citiesMaracaiboDescription">Maracaibo is a city in northwestern Venezuela and the capital of
+        Zulia state, known as the center of Venezuela\’s oil industry. Its old town is marked by colonial buildings,
+        including the colorful houses lining Calle Carabobo. On central Plaza Bolívar, Maracaibo Cathedral houses the
+        statue of the Cristo Negro, or Black Christ. Nearby is the 18th-century Casa de la Capitulación, a culture and
+        history center.</string>
+
+    <string name="citiesValencia">Valencia</string>
+    <string name="citiesValenciaDescription">Valencia is the capital city of Carabobo State, and the third largest
+        city of Venezuela. The city is an economic hub that contains Venezuela\'s top industries and manufacturing companies.</string>
+
+    <string name="citiesPuertoLaCruz">Puerto la Cruz</string>
+    <string name="citiesPuertoLaCruzDescription">Puerto La Cruz is a port city located in Anzoátegui State,
+        in Venezuela. It is the seat of the Juan Antonio Sotillo Municipality. The city has road connections
+        to the state capital, Barcelona, to Lecheria and to Guanta.</string>
+
+    <string name="citiesMerida">Merida</string>
+    <string name="citiesMeridaDescription">Mérida is a city in the Andes mountains of northwestern Venezuela.
+        It\’s known for its Spanish colonial architecture, its parks and squares, and as a base for outdoor
+        activities in the nearby Sierra Nevada and Sierra La Culata national parks. International visitors
+        and the many students of the prestigious Universidad de Los Andes contribute to lively nightlife and
+        cultural scenes.</string>
+
+    <string name="foodArepa">Arepas Venezolanas</string>
+    <string name="foodArepaDescription">Arepa is a type of food made of ground maize dough or cooked
+        flour prominent in the cuisines of Colombia and Venezuela. It is eaten daily in those countries
+        and can be served with accompaniments such as cheese (cuajada), avocado, or split to make sandwiches.
+        Sizes, maize types, and added ingredients vary its preparation. Arepas can also be found in Panama and
+        the Canary Islands. It is similar in shape to the Mexican gordita and the Salvadoran
+        pupusa.</string>
+
+    <string name="foodCachapa">Cachapa</string>
+    <string name="foodCachapaDescription">Cachapas are a traditional Venezuelan and Colombian dish made from corn.
+        Like arepas, they are popular at roadside stands. They can be made like pancakes of fresh corn dough,
+        or wrapped in dry corn leaves and boiled (cachapa de hoja). The most common varieties are made with fresh ground
+        corn mixed into a thick batter and cooked on a budare, like pancakes; the cachapa is slightly thicker and lumpier
+        because of the pieces from corn kernels. Cachapas are traditionally eaten with Queso de Mano (hand[made] cheese),
+        a soft, mozzarella-like cheese, and occasionally with fried pork chicharrón on the side. Cachapas can be very
+        elaborate, some including different kinds of cheese, milky cream, or jam. They can be prepared as an appetizer,
+        generally with margarine, or as a full breakfast with hand cheese and fried pork.</string>
+
+    <string name="foodEmpanada">Empanada</string>
+    <string name="foodEmpanadaDescription">An empanada is a stuffed bread or pastry baked or fried in many countries
+        in Spain and Latin America. The name comes from the Spanish verb empanar, meaning to wrap or coat in bread.
+        Empanadas are made by folding dough over a stuffing, which may consist of meat, cheese, huitlacoche, or other
+        ingredients.</string>
+
+    <string name="foodPabellon">Pabellon Criollo</string>
+    <string name="foodPabellonDescription">Pabellón criollo is a traditional Venezuelan dish, the local version of the
+        rice and beans combination found throughout the Caribbean. It is a plate of rice, shredded beef in stew and stewed
+        black beans that is considered by many to be the Venezuelan national dish.</string>
+
+    <string name="foodPatacon">Patacon</string>
+    <string name="foodPataconDescription">FOR plantain lovers, it may be the best thing since sliced bread. In fact,
+        a patacón (paht-ah-CONE) — the full name, patacón Maracucho, identifies its birthplace as the Venezuelan city
+        of Maracaibo — is a sandwich that dispenses with bread entirely. In its place is green (that is, unripe)
+        plantain that’s been sliced lengthwise, fried, pressed flat and fried again. Still warm, the golden discs embrace
+        shredded beef, roast pork, chorizo, chicken or cheese.</string>
+
+</resources>

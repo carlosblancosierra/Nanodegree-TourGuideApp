@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#8BC34A</color>
+
+    <color name="beachesCategoryColor">#880E4F</color>
+    <color name="otherNaturalPlacesCategoryColor">#FBC02D</color>
+    <color name="citiesCategoryColor">#303F9F</color>
+    <color name="foodCategoryColor">#D32F2F</color>
+
+
+</resources>

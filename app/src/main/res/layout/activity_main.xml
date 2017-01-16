@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.tourguideapp.MainActivity">
+
+    <FrameLayout
+        style="@style/mainActivityFrameLayout"
+        android:background="@color/beachesCategoryColor">
+
+        <TextView
+            android:id="@+id/beaches"
+            style="@style/mainActivityItems"
+            android:text="@string/categoryBeaches" />
+    </FrameLayout>
+
+    <FrameLayout
+        style="@style/mainActivityFrameLayout"
+        android:background="@color/otherNaturalPlacesCategoryColor">
+
+        <TextView
+            android:id="@+id/other_natural_places"
+            style="@style/mainActivityItems"
+            android:text="@string/categoryOtherNaturalPlaces" />
+    </FrameLayout>
+
+    <FrameLayout
+        style="@style/mainActivityFrameLayout"
+        android:background="@color/citiesCategoryColor">
+
+        <TextView
+            android:id="@+id/cities"
+            style="@style/mainActivityItems"
+            android:text="@string/categoryCities" />
+    </FrameLayout>
+
+    <FrameLayout
+        style="@style/mainActivityFrameLayout"
+        android:background="@color/foodCategoryColor">
+
+        <TextView
+            android:id="@+id/food"
+            style="@style/mainActivityItems"
+            android:text="@string/categoryFood" />
+    </FrameLayout>
+
+
+</LinearLayout>
+
